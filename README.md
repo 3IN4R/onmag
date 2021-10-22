@@ -1,2 +1,2 @@
 "# onmag" 
-Magazine website for eco friendly electric cars
+Magazine website for eco friendly electric cars.
